@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="D:\CodeValley\Android\Projects\RAH\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="D:\CodeValley\Android\Projects\RAH\app\build\intermediates\pre-dexed\release\com.android.support-appcompat-v7-23.4.0_959c5d233c6b540c89891382a52a4aa30392b033.jar" />
+    </item>
+    <item
+        jar="D:\CodeValley\Android\Projects\RAH\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="ec75036c3c52e451d0cde50a5aedaf5fd32354a0">
+        <dex dex="D:\CodeValley\Android\Projects\RAH\app\build\intermediates\pre-dexed\release\com.android.support-recyclerview-v7-23.4.0_f851791b326415d205f3e6f6048dea2f9f049b02.jar" />
+    </item>
+    <item
+        jar="D:\CodeValley\Android\Projects\RAH\app\build\intermediates\exploded-aar\com.android.support\design\23.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="5326d9a850d491714fef8cbfaa9ea3416f0bf0d2">
+        <dex dex="D:\CodeValley\Android\Projects\RAH\app\build\intermediates\pre-dexed\release\com.android.support-design-23.4.0_eb4a3f0ff6a37a4878c9c2bf6ff52c77f156c64f.jar" />
+    </item>
+    <item
+        jar="D:\CodeValley\Android\Projects\RAH\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="D:\CodeValley\Android\Projects\RAH\app\build\intermediates\pre-dexed\release\com.android.support-support-v4-23.4.0_a95859a0555610932f5fc75aa2b70c54bd0baa3e.jar" />
+    </item>
+    <item
+        jar="D:\CodeValley\Android\Projects\RAH\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="D:\CodeValley\Android\Projects\RAH\app\build\intermediates\pre-dexed\release\com.android.support-support-vector-drawable-23.4.0_c96eb902984b05ee92e46e5480e5fbb8780ba1ea.jar" />
+    </item>
+    <item
+        jar="D:\CodeValley\Android\Projects\RAH\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="D:\CodeValley\Android\Projects\RAH\app\build\intermediates\pre-dexed\release\com.android.support-animated-vector-drawable-23.4.0_4cc0a947d07f61df54b5f8257626c2c7a9aa111a.jar" />
+    </item>
+    <item
+        jar="C:\Users\Angel\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.4.0\support-annotations-23.4.0.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="D:\CodeValley\Android\Projects\RAH\app\build\intermediates\pre-dexed\release\support-annotations-23.4.0_1da091008f4d8bb4dc28e11ee73355c6b2a1247e.jar" />
+    </item>
+    <item
+        jar="D:\CodeValley\Android\Projects\RAH\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\libs\internal_impl-23.4.0.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="D:\CodeValley\Android\Projects\RAH\app\build\intermediates\pre-dexed\release\internal_impl-23.4.0_5eec76d140ea0a58292e0f45a6d88458cb1ac1a0.jar" />
+    </item>
+
+</items>
